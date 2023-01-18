@@ -1,4 +1,4 @@
-# s21_math
+# Educational project s21_math from "School 21"
 
 Реализация собственной версии математической библиотеки math.h.
 
